@@ -8,7 +8,7 @@ I am Senior Software Engineer at [<b>UHG</b>](https://www.unitedhealthgroup.com/
 - 💞️ I’m looking to collaborate on web3 and DApps
 - 📫 How to reach me : rinkukurukshetra@gmail.com
 - 💼 I’m currently working at [<b>UnitedHealth Group</b>](https://www.unitedhealthgroup.com/) 🔵
-- 💬 Ask me about React, JS, Solidity, Blockchain, NFTs and Metaverse
+- 💬 Ask me about React, JS, NextJS, Three.js, Solidity, Blockchain, NFTs and Metaverse
 - ⚡ Fun fact: A "year" is the standard unit of time Geeks use for all project development estimates😅
 
  **I am open to**:
