@@ -5,9 +5,9 @@ I am Senior Software Engineer at [<b>UHG</b>](https://www.unitedhealthgroup.com/
 - 👀 I’m interested in Frontend + Blockchain 🔥
 - 🌱 I’m currently learning NextJS + Solidity
 - 💞️ I’m looking to collaborate on web3 and DApps
-- 📫 How to reach me : rinkukurukshetra@gmail.com
+- 📫 How to reach me: acciolatec@gmail.com
 - 💼 I’m currently working at [<b>UnitedHealth Group</b>](https://www.unitedhealthgroup.com/) 🔵
-- 💬 Ask me about React, JS, NextJS, Three.js, Solidity, Blockchain, NFTs and Metaverse
+- 💬 Ask me about ReactJS, JS, NextJS, Redux, Three.js, Swift, Solidity, Blockchain, NFTs and Metaverse
 - ⚡ Fun fact: A "year" is the standard unit of time Geeks use for all project development estimates😅
 
  **I am open to**:
@@ -16,6 +16,9 @@ I am Senior Software Engineer at [<b>UHG</b>](https://www.unitedhealthgroup.com/
 - freelancing work and
 - teach/learn to/from ayone.
 
+**On the side learning**:
+- Blender, Adobe Effects, some designing
+- Swift UI
 
 ## Skills:
 
