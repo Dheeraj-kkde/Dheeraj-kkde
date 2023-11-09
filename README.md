@@ -2,7 +2,6 @@
 
 I am Senior Software Engineer at [<b>UHG</b>](https://www.unitedhealthgroup.com/) ([Fortune 5 Company](https://fortune.com/fortune500/)) and a passionate + proactive guy to learn new technologies and skills to elevate my skill-set. Believe in being a student and ready to learn from Juniors as well as Seniors💕
 
-- 😄 Pronouns: He/Him
 - 👀 I’m interested in Frontend + Blockchain 🔥
 - 🌱 I’m currently learning NextJS + Solidity
 - 💞️ I’m looking to collaborate on web3 and DApps
