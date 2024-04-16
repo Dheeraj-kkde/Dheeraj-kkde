@@ -1,12 +1,13 @@
 ### Hi there, I'm [Dheeraj Kumar](https://twitter.com/dheeraj_kkde) 👋
 
-I am Senior Software Engineer at [<b>UHG</b>](https://www.unitedhealthgroup.com/) ([Fortune 5 Company](https://fortune.com/fortune500/)) and a passionate + proactive guy to learn new technologies and skills to elevate my skill-set. Believe in being a student and ready to learn from Juniors as well as Seniors💕
+I am Senior Software Engineer at [<b>KPMG</b>](https://kpmg.com/xx/en/home.html) (Big 4) and a passionate + proactive guy to learn new technologies and skills to elevate my skill-set. Believe in being a student and ready to learn from Juniors as well as Seniors💕
+Currently in a Gen AI Team (R&DE)
 
 - 👀 I’m interested in Frontend + Blockchain 🔥
 - 🌱 I’m currently learning NextJS + Solidity
 - 💞️ I’m looking to collaborate on web3 and DApps
 - 📫 How to reach me: acciolatec@gmail.com
-- 💼 I’m currently working at [<b>UnitedHealth Group</b>](https://www.unitedhealthgroup.com/) 🔵
+- 💼 I’m currently working at [<b>KPMG</b>](https://kpmg.com/xx/en/home.html) 🔵
 - 💬 Ask me about ReactJS, JS, NextJS, Redux, Three.js, Swift, Solidity, Blockchain, NFTs and Metaverse
 - ⚡ Fun fact: A "year" is the standard unit of time Geeks use for all project development estimates😅
 
