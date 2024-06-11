@@ -1,6 +1,6 @@
 ### Hi there, I'm [Dheeraj Kumar](https://twitter.com/dheeraj_kkde) 👋
 
-I am Senior Software Engineer at [<b>KPMG</b>](https://kpmg.com/xx/en/home.html) (Big 4) and a passionate + proactive guy to learn new technologies and skills to elevate my skill-set. Believe in being a student and ready to learn from Juniors as well as Seniors💕
+I am a Senior Software Engineer at [<b>KPMG</b>](https://kpmg.com/xx/en/home.html) (Big 4) and a passionate + proactive guy to learn new technologies and skills to elevate my skill set. Believe in being a student and ready to learn from Juniors as well as Seniors💕
 Currently in a Gen AI Team (R&DE)
 
 - 👀 I’m interested in Frontend + Blockchain 🔥
@@ -13,12 +13,13 @@ Currently in a Gen AI Team (R&DE)
 
  **I am open to**:
 
-- any collobration work,
+- any collaboration work,
 - freelancing work and
-- teach/learn to/from ayone.
+- teach/learn to/from anyone.
 
 **On the side learning**:
-- Blender, Adobe Effects, some designing
+- Gen AI and various AI tools
+- UX/UI Designing and Product Designing
 - Swift UI
 
 ## Skills:
